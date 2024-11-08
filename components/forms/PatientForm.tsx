@@ -28,7 +28,7 @@ export enum FormFieldType {
  
 const PatientForm = () => {
   const router = useRouter();
-  const [isLoading, setisLoading] = useState(false)
+  const [isLoading, setIsLoading] = useState(false)
   // 1. Define your form.
   const form = useForm<z.infer<typeof UserFormValidation>>({
     resolver: zodResolver(UserFormValidation),
@@ -60,7 +60,7 @@ const PatientForm = () => {
     catch (error) {
       console.error('Error in onSubmit:', error);
     }
-    setisLoading(false);
+    setIsLoading(false);
     console.log('Form submission completed');
   }
     
