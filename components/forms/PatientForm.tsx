@@ -42,7 +42,7 @@ const PatientForm = () => {
   // 2. Define a submit handler.
   async function onSubmit({name, email, phone}: z.infer<typeof UserFormValidation>) {
     console.log('onSubmit function called with:', {name, email, phone});
-    setisLoading(true);
+    setIsLoading(true);
 
     try {
       console.log('Attempting to create user...');
