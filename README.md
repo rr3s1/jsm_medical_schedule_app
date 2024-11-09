@@ -86,7 +86,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/fum9ya/jsm_medical_schedule_app
+git clone https://github.com/fum9ya/jsm_medical_schedule_app.git
 cd healthcare
 ```
 
