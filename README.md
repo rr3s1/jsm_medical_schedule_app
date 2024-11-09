@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-<h3 align="center">A HealthCare Management System</h3>
+<h3 align="center">HealthCare Management System</h3>
 
    <div align="center">
      In this repository, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a HealthCare Management System. 
