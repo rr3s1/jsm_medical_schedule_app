@@ -77,7 +77,7 @@ const RegisterForm = ({user}: { user: User }) => {
             const patient = await registerPatient(patientData);
             if (patient) {
 
-                router.push(`/patients/${user.$id}/new-appointement`);
+                router.push(`/patients/${user.$id}/new-appointment`);
                 console.log('Routed to appointment page');
             } else {
                 console.log('User creation failed or returned undefined');

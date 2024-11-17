@@ -17,7 +17,7 @@
    <div align="center">
      In this repository, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a HealthCare Management System. 
 
-https://www.youtube.com/watch?v=lEflo_sc82g&t=2776s&ab_channel=JavaScriptMastery
+
 
 https://github.com/adrianhajdin
     </div>
