@@ -17,7 +17,7 @@ export default async function NewAppointment({params :{userId}}:SearchParamProps
                         alt="patient"
                         className="mb-12 h-10 w-fit"
                     />
-                    <PatientForm />
+
                     <AppointmentForm
                     type="create"
                     userId={userId}
