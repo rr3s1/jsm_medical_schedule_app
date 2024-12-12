@@ -87,7 +87,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/r3ss1/jsm_medical_schedule_app.git
-cd healthcare
+cd jsm_medical_schedule_app
 ```
 
 **Installation**
