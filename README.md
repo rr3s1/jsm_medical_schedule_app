@@ -4,6 +4,14 @@
       <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
     </a>
   <br />
+  ![image](https://github.com/user-attachments/assets/7f35c87e-02ec-4e5c-81b7-a40731fdaf90)
+  <br />
+![image](https://github.com/user-attachments/assets/0b60b500-fea5-44cb-962c-432bd883cf2a)
+<br />
+  ![image](https://github.com/user-attachments/assets/aa77e153-6c51-4e34-84b4-85ae7d74ea79)
+<br />
+![image](https://github.com/user-attachments/assets/9c505804-daee-496c-91f8-7503c24baa5b)
+<br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
